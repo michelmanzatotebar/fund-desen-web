@@ -1,0 +1,4 @@
+- npx create-html5-boilerplate html5-boilerplate-2026-1
+- cd html5-boilerplate-2026-1
+- code .
+- npm install
