@@ -1,10 +1,11 @@
 {
-  "name": " ",
+  "name": "html5boilerplate",
   "version": "0.0.1",
   "description": "",
   "private": true,
   "keywords": [
-    ""
+    "html5",
+    "boirlerplate"
   ],
   "license": "",
   "author": "",
